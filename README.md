@@ -1,6 +1,6 @@
-# Zuri Task- Introduction to Javascript
+# Zuri Task- Introduction to JavaScript
 #### Instructions
-Write a javascript code that prints out your name, height, and country on the screen
+Write a JavaScript code that prints out your name, height, and country on the screen
 <br>
 Code can be found in the index.html file.
 <br>
